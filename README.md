@@ -128,18 +128,6 @@ You can download it from the link below:
 
 - **SQL (MySQL Workbench)**: Data transformation, modeling, and querying
 - **Spreadsheet/CSV**: Initial raw data input
-- **Tableau / Power BI (Optional)**: Visualization and dashboard suggestions
-
----
-
-## 📁 File Structure (if on GitHub)
-
-```
-📦 e-commerce-behavior-analysis/
-├── 📜 Data_Analysis_Project.sql   -- Full star schema creation + analysis queries
-├── 📜 README.md                   -- This file
-
-```
 
 ---
 
